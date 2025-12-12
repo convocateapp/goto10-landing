@@ -1,0 +1,9 @@
+{
+  "routes": [
+    {
+      "route": "/*",
+      "redirect": "https://www.convocateapp.com",
+      "statusCode": 301
+    }
+  ]
+}
